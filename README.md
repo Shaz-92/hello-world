@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hi everyone!
+
+I'm Shashini. Trying to learn to work on github and ruby
